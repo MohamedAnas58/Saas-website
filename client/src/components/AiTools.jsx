@@ -15,7 +15,7 @@ const AiTools = () => {
             <p className='text-gray-500 max-w-lg mx-auto'>Everything you need to create, enhance, and optimize your content with cutting-edge AI Technology.</p>
 
         </div>
-        {/*<div className='flex flex-wrap mt-10 justify-center'> this is the youtube code
+        {/*<div className='flex flex-wrap mt-10 justify-center'> 
         but it align box vertically not horizontally */} 
         <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 mt-10'>
                  {AiToolsData.map((tool, index)=>(
