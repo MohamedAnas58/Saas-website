@@ -27,7 +27,8 @@ const Hero = () => {
                 Watch demo</button>
          </div>
 
-         {/* This is teh code in the original youtube video for the small image below that but did not work
+         {/*
+         the small image below that but did not work
          <div className='flex items-center gap-4 mt-8 mx:auto text-gray-600'>
             <img src={assets.user_group} alt="" className='h-5'/> Trusted by 10k+ people
          </div>
